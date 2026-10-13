@@ -3,9 +3,10 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import Nav from './Nav'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import Relleno from './components/Relleno'
 import { Routes, Route } from "react-router-dom";
+
 import './App.css'
 
 function App() {

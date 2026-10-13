@@ -3,10 +3,10 @@
 
 
 .borderd {
-        @apply border-solid border-b-2
+        @apply border-solid border-b-2 border-[#242624]
 
 } 
 
 html{
-  @apply bg-[#343a40]
+  @apply bg-[#0A0A0A]
 }
