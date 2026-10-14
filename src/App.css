@@ -7,6 +7,11 @@
 
 } 
 
+.borderu {
+        @apply border-solid border-t-2 border-[#242624]
+
+} 
+
 html{
   @apply bg-[#0A0A0A]
 }

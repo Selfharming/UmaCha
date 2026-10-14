@@ -55,7 +55,7 @@ const Relleno = () => {
 
 
   return (
-    <div className='mt-15'>
+    <div className='m-15'>
       <div className='text-white flex flex-col items-center'>
         <div className='flex flex-row'>
         <button className='border rounded-2xl p-4 mb-4 mr-1 w-[77px]' onClick={tirarGacha}>
