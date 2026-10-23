@@ -2,9 +2,12 @@
 
 
 
-.borderd {
-        @apply border-solid border-b-2 border-[#242624]
+.button {
+        @apply shadow-sm border rounded-2xl shadow-fuchsia-100 hover:bg-mist-800
+}
 
+.borderd {
+        @apply border-solid border-b-2 border-[#242624] 
 } 
 
 .borderu {
